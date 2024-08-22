@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\bin\Release\net6.0\NemesisDecomp.exe
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\bin\Release\net6.0\NemesisDecomp.deps.json
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\bin\Release\net6.0\NemesisDecomp.runtimeconfig.json
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\bin\Release\net6.0\NemesisDecomp.dll
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\bin\Release\net6.0\NemesisDecomp.pdb
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.AssemblyInfo.cs
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.dll
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\refint\NemesisDecomp.dll
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.pdb
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\NemesisDecomp.genruntimeconfig.cache
+C:\Users\andre\source\repos\NemesisDecomp\NemesisDecomp\obj\Release\net6.0\ref\NemesisDecomp.dll
